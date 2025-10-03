@@ -29,13 +29,13 @@ Frontend developer with 2+ years of experience building scalable and responsive 
 
 -   Built frontend for online pharmacy with secure orders and dashboards for admin & sales roles.
 -   Tech: Vue.js, Tailwind CSS, Pinia
--   [🔗 Repository](https://github.com/RaufCode) (add specific repo link)
+-   [🔗 Repository](https://github.com/RaufCode)
 
 ### 🗳 Voting System
 
 -   Designed and deployed a fully responsive voting system used by two AAMUSTED departments.
 -   Tech: Vue.js, Tailwind CSS
--   [🔗 Repository](https://github.com/RaufCode) (add specific repo link)
+-   [🔗 Repository](https://github.com/RaufCode)
 
 ---
 
