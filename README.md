@@ -6,13 +6,11 @@
 📫 Email: [abdulraufsaeed923@gmail.com](mailto:abdulraufsaeed923@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/saeed-abdul-rauf) | [GitHub](https://github.com/RaufCode)
 
----
 
 ## 💡 Professional Summary
 
 Frontend developer with 2+ years of experience building scalable and responsive applications using modern frontend tools. Skilled in agile collaboration, problem-solving, and version control. Passionate about creating user-centered solutions and continuously learning to grow into a senior frontend engineer.
 
----
 
 ## 🛠 Technical Skills
 
@@ -21,7 +19,6 @@ Frontend developer with 2+ years of experience building scalable and responsive 
 -   **Tools:** Git, GitHub, REST APIs, Pinia, Context API
 -   **Other:** Responsive UI design, Authentication systems, State management, Remote collaboration
 
----
 
 ## 📌 Selected Projects
 
@@ -37,7 +34,6 @@ Frontend developer with 2+ years of experience building scalable and responsive 
 -   Tech: Vue.js, Tailwind CSS
 -   [🔗 Repository](https://github.com/RaufCode)
 
----
 
 ## 💼 Experience
 
@@ -54,7 +50,6 @@ Frontend developer with 2+ years of experience building scalable and responsive 
 -   Shadowed senior developers and followed agile workflows.
 -   Learned industry best practices for frontend development.
 
----
 
 ## 🎓 Education
 
@@ -62,7 +57,6 @@ Frontend developer with 2+ years of experience building scalable and responsive 
 Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development  
 _2021 – 2025_
 
----
 
 ## 🏆 Achievements
 
@@ -70,7 +64,6 @@ _2021 – 2025_
 -   Delivered 4+ academic and personal projects.
 -   Praised for adaptability, clean code, and strong collaboration.
 
----
 
 ## 🤝 Let’s Connect
 
@@ -78,6 +71,5 @@ _2021 – 2025_
 🔗 [LinkedIn](https://www.linkedin.com/in/saeed-abdul-rauf)  
 💻 [GitHub](https://github.com/RaufCode)
 
----
 
 ⭐️ Always open to **internship, contract, and full-time opportunities** in **Frontend and Backend Development**.
