@@ -112,7 +112,6 @@ const saeed = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaufCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saeed's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaufCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=RaufCode&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
