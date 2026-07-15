@@ -105,3 +105,43 @@ const saeed = {
 | **Katanomics** — Corporate Website | Nuxt.js · TypeScript · Tailwind · Django REST | Figma → production, dynamic content, SEO & performance tuned |
 
 *See live links and full write-ups on my [portfolio ↗](https://abdulrauf-saeed.vercel.app/)*
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaufCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saeed's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaufCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=RaufCode&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaufCode/RaufCode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaufCode/RaufCode/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/RaufCode/RaufCode/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrauf-saeed.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-abdulrauf)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B233%2055%20212%202002-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233552122002)
+
+<sub>Thanks for stopping by — always happy to talk about frontend architecture, AI-assisted engineering, or the next thing to ship. ⭐️</sub>
+
+<img src="https://komarev.com/ghpvc/?username=RaufCode&color=2DD4BF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+
+</div>
