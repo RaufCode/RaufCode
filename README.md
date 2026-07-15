@@ -78,3 +78,30 @@ const saeed = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+## 💼 Experience Snapshot
+
+| Role | Company | Period | Focus |
+|---|---|---|---|
+| Software Engineer | **Annin Software** (Remote) | Jan 2025 – Present | SvelteKit + TypeScript interfaces, real-time data workflows, AI-assisted dev |
+| Frontend Engineer (Contract) | **Agricom** (Remote) | Aug 2024 – Oct 2024 | Mobile-first Next.js frontend for an agri-tech platform |
+| Frontend Engineer | **CredMap** · Accra (Remote) | Feb 2024 – Dec 2024 | High-performance, real-time modules for a fintech product |
+| Frontend Engineer Intern | **mPedigree** · Accra (Remote) | Dec 2024 | Distributed codebase, modularity, component testing |
+| Freelance Software Engineer | Self-employed (Remote) | 2022 – Present | Full lifecycle delivery: Figma → build → deploy → iterate |
+
+*Full role details, metrics, and case studies live on my [portfolio](https://abdulrauf-saeed.vercel.app/).*
+
+<br/>
+
+## 🚀 Selected Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Baetts** — Hospitality & Accommodation Platform | Nuxt.js · TypeScript · Tailwind · Django REST | Full frontend for property listings & payments, booking flows for guest + host interfaces |
+| **Neofingo** — AI Trade Finance Assistant | Nuxt.js · TypeScript · OpenAI API · Django REST | Conversational UI for an AI banking assistant with prompt-engineered responses |
+| **Compassionate Minds** — Clinic Patient Portal | React · Supabase · JavaScript | Sole developer; Supabase Auth, real-time appointment data, accessible calming UI |
+| **Katanomics** — Corporate Website | Nuxt.js · TypeScript · Tailwind · Django REST | Figma → production, dynamic content, SEO & performance tuned |
+
+*See live links and full write-ups on my [portfolio ↗](https://abdulrauf-saeed.vercel.app/)*
