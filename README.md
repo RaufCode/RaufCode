@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Saeed+Abdul+Rauf+%F0%9F%91%8B;Frontend-Led+%2F+Full-Stack+Software+Engineer;Figma+%E2%86%92+Production%2C+End+to+End;Currently+shipping+at+Annin+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Saeed+Abdul+Rauf+%F0%9F%91%8B;Frontend-Led+%2F+Full-Stack+Software+Engineer;Figma+%E2%86%92+Production%2C+End+to+End;Currently+shipping+at+CredMap" alt="Typing SVG" />
 
 <br/>
 
@@ -26,10 +26,10 @@ const saeed = {
   role: "Software Engineer — Frontend-Led Full-Stack",
   location: "Accra, Ghana 🇬🇭 (Remote)",
   experience: "3+ years",
-  currentlyBuilding: "Production interfaces @ Annin Software (SvelteKit + TypeScript)",
+  currentlyBuilding: "Real-time fintech modules @ CredMap",
   currentlyLearning: "Deeper backend systems design & cloud architecture",
   askMeAbout: ["AI-assisted dev workflows", "Design-to-code handoff", "Full-stack architecture"],
-  funFact: "I design in Figma before I write a single line of code",
+  funFact: "I love being challenged with difficult tasks",
 };
 ```
 
@@ -85,9 +85,9 @@ const saeed = {
 
 | Role | Company | Period | Focus |
 |---|---|---|---|
-| Software Engineer | **Annin Software** (Remote) | Jan 2025 – Present | SvelteKit + TypeScript interfaces, real-time data workflows, AI-assisted dev |
+| Frontend Engineer | **CredMap** · Accra (Remote) | Feb 2024 – Present | High-performance, real-time modules for a fintech product |
+| Software Engineer | **Annin Software** (Remote) | Jan 2025 – Jun 2026 | SvelteKit + TypeScript interfaces, real-time data workflows, AI-assisted dev |
 | Frontend Engineer (Contract) | **Agricom** (Remote) | Aug 2024 – Oct 2024 | Mobile-first Next.js frontend for an agri-tech platform |
-| Frontend Engineer | **CredMap** · Accra (Remote) | Feb 2024 – Dec 2024 | High-performance, real-time modules for a fintech product |
 | Frontend Engineer Intern | **mPedigree** · Accra (Remote) | Dec 2024 | Distributed codebase, modularity, component testing |
 | Freelance Software Engineer | Self-employed (Remote) | 2022 – Present | Full lifecycle delivery: Figma → build → deploy → iterate |
 
