@@ -111,14 +111,6 @@ const saeed = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=RaufCode&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-
-</div>
-
-<br/>
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaufCode/RaufCode/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaufCode/RaufCode/output/github-contribution-grid-snake.svg" />
