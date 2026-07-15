@@ -108,7 +108,7 @@ const saeed = {
 
 <br/>
 
-## 📊 GitHub Stats
+## 🐍 Contribution Activity
 
 <div align="center">
 <picture>
