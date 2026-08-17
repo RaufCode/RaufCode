@@ -124,10 +124,10 @@ const saeed = {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **Baetts** — Hospitality & Accommodation Platform | Nuxt.js · TypeScript · Tailwind · Django REST | Full frontend for property listings & payments, booking flows for guest + host interfaces |
-| **Neofingo** — AI Trade Finance Assistant | Nuxt.js · TypeScript · OpenAI API · Django REST | Conversational UI for an AI banking assistant with prompt-engineered responses |
-| **Compassionate Minds** — Clinic Patient Portal | React · Supabase · JavaScript | Sole developer; Supabase Auth, real-time appointment data, accessible calming UI |
-| **Katanomics** — Corporate Website | Nuxt.js · TypeScript · Tailwind · Django REST | Figma → production, dynamic content, SEO & performance tuned |
+| **Neofingo** — Trade Finance Platform | Nuxt 3 · Vue 3 Composition API · TypeScript · Django REST API | AI tooling & conversational search over live trade-lifecycle data; resilient state handling for multi-step transaction flows |
+| **Baetts** — Hospitality & Property Platform | Vue 3 Composition API · TypeScript · PrimeVue · Tailwind CSS · FastAPI | Guest booking workflows, property listing portals & interactive dashboards — full client and server logic |
+| **Compassionate Minds** — Healthcare Portal | React · Next.js · Zustand · shadcn/ui · Supabase | End-to-end patient management portal with real-time booking, authentication & accessible design |
+| **Akoko Wura** — Operations & Risk Platform | SvelteKit · Vue 3 · TypeScript · FastAPI · SQLAlchemy · PostgreSQL | Full-stack operational dashboard: FastAPI batch data pipelines + real-time metrics & risk indicators |
 
 *See live links and full write-ups on my [portfolio ↗](https://abdulrauf-saeed.vercel.app/)*
 
