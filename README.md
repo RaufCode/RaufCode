@@ -23,12 +23,12 @@ I build token-based design systems and reusable component libraries (**shadcn/ui
 
 ```txt
 const saeed = {
-  role: "Software Engineer — Frontend-Led Full-Stack",
+  role: "Senior Frontend Engineer — Full-Stack Capable",
   location: "Accra, Ghana 🇬🇭 (Remote)",
-  experience: "3+ years",
-  currentlyBuilding: "Real-time fintech modules @ CredMap",
-  currentlyLearning: "Deeper backend systems design & cloud architecture",
-  askMeAbout: ["AI-assisted dev workflows", "Design-to-code handoff", "Full-stack architecture"],
+  experience: "5+ years",
+  currentlyBuilding: "Frontend-led products for fintech, hospitality & SaaS clients",
+  currentlyLearning: "Deeper distributed systems & cloud architecture",
+  askMeAbout: ["Design systems at scale", "Resilient async API integration", "AI-assisted engineering workflows"],
   funFact: "I love being challenged with difficult tasks",
 };
 ```
