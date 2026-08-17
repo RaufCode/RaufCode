@@ -170,7 +170,7 @@ Thesis: applied Design Science Research (DSR) methodology to architect and evalu
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B233%2055%20212%202002-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233552122002)
 
-<sub>Thanks for stopping by — always happy to talk about frontend architecture, AI-assisted engineering, or the next thing to ship. ⭐️</sub>
+<sub>Thanks for stopping by — always happy to talk about design systems at scale, resilient API architecture, or AI-assisted engineering workflows. ⭐️</sub>
 
 <img src="https://komarev.com/ghpvc/?username=RaufCode&color=2DD4BF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 
