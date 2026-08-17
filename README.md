@@ -17,9 +17,9 @@
 
 ## About Me
 
-I'm a software engineer with 3+ years of experience shipping production web applications across **fintech, hospitality, agri-tech, and enterprise** domains. Frontend-led, but genuinely full-stack — comfortable across the entire pipeline, from UI design and prototyping in **Figma** through to backend APIs with **Node.js / Express / Prisma**, and data modelling in **PostgreSQL / MySQL**.
+I'm a Senior Frontend-led Full-Stack Engineer with **5+ years** of production experience architecting scalable, high-performance web applications across **fintech, hospitality, and SaaS**. Core expertise in **Vue 3 (Composition API)**, **Nuxt**, **React**, **Next.js**, and **SvelteKit**, paired with full-stack capability across **Node.js**, **Express**, and **Python/FastAPI**.
 
-I bring strong OOP fundamentals across JavaScript, TypeScript, and C#, and work efficiently with AI-assisted development — from prompt engineering to reviewing and refactoring "vibe-coded" output to production standards. **AWS Certified Cloud Practitioner.** I've delivered software as a contractor, inside Agile teams, and as a sole developer end-to-end.
+I build token-based design systems and reusable component libraries (**shadcn/ui**, **Radix**, **Tailwind CSS**), and integrate REST APIs under real-world async conditions — eventual consistency, retries, idempotent submissions, and partial failure recovery. Experienced in frontend observability (**Datadog RUM**), application security (**XSS, CSRF, CSP**), and using AI-assisted workflows to ship reliable features faster without cutting corners on code quality. **AWS Certified Cloud Practitioner.**
 
 ```txt
 const saeed = {
