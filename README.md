@@ -133,6 +133,14 @@ const saeed = {
 
 <br/>
 
+## 🎓 Certifications
+
+- AWS Certified Cloud Practitioner (CLF-C02), AWS re/Start Programme
+- SQL Certification
+- C# Certification
+
+<br/>
+
 ## 🐍 Contribution Activity
 
 <div align="center">
