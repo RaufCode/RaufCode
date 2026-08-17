@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
 [![Location](https://img.shields.io/badge/Ghana-Remote%20%7C%20Open%20to%20Relocate-006B3F?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-**🟢 Open to full-stack, frontend & backend roles — contract or full-time, remote-first from Accra, Ghana.**
+**🟢 Open to senior frontend & full-stack engineering roles — contract or full-time, remote-first from Accra, Ghana.**
 
 </div>
 
