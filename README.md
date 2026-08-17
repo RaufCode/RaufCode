@@ -141,6 +141,14 @@ const saeed = {
 
 <br/>
 
+## 🎓 Education
+
+**BSc Information Technology** — Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development (AAMUSTED) · 2021 – 2025
+
+Thesis: applied Design Science Research (DSR) methodology to architect and evaluate a full-stack web application.
+
+<br/>
+
 ## 🐍 Contribution Activity
 
 <div align="center">
