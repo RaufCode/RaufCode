@@ -106,15 +106,15 @@ const saeed = {
 
 <br/>
 
-## 💼 Experience Snapshot
+## 💼 Professional Experience
 
 | Role | Company | Period | Focus |
 |---|---|---|---|
-| Frontend Engineer | **CredMap** · Accra (Remote) | Feb 2024 – Present | High-performance, real-time modules for a fintech product |
-| Software Engineer | **Annin Software** (Remote) | Jan 2025 – Jun 2026 | SvelteKit + TypeScript interfaces, real-time data workflows, AI-assisted dev |
-| Frontend Engineer (Contract) | **Agricom** (Remote) | Aug 2024 – Oct 2024 | Mobile-first Next.js frontend for an agri-tech platform |
-| Frontend Engineer Intern | **mPedigree** · Accra (Remote) | Dec 2024 | Distributed codebase, modularity, component testing |
-| Freelance Software Engineer | Self-employed (Remote) | 2022 – Present | Full lifecycle delivery: Figma → build → deploy → iterate |
+| Senior Frontend Engineer | **Credmap** · Full-Time | Jan 2023 – Jun 2026 | Owned frontend architecture for core fintech products — real-time dashboards, resilient async API integration, Datadog observability |
+| Freelance Full-Stack Engineer | **Self-Employed** · Contract | 2021 – Present | Frontend-led delivery across fintech, hospitality & SaaS clients with Vue 3, SvelteKit, React & FastAPI |
+| Frontend Engineer | **mPedigree** · Contract | Jul 2022 – Dec 2022 | Component-based modules in a distributed codebase, test suites & onboarding documentation |
+| Frontend Engineer Intern | **Agricom** · Internship | Apr 2022 – Jun 2022 | Mobile-first, low-bandwidth-optimized interfaces for an agri-tech platform |
+| Software Engineer Intern | **Annin Software** · Internship | Jun 2021 – Dec 2021 | Foundational state management structures & API integration workflows |
 
 *Full role details, metrics, and case studies live on my [portfolio](https://abdulrauf-saeed.vercel.app/).*
 
