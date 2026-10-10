@@ -30,36 +30,24 @@ Frontend-first, full-stack capable. I ship design systems, real-time dashboards 
 
 <br/>
 
-## 💼 Experience
+## Experience
 
-| Role | Company | Period | Impact |
-|---|---|---|---|
-| Senior Frontend Engineer | **Credmap** · Full-time | 2023 – 2026 | Frontend architecture for core fintech products — real-time dashboards, resilient async integrations, Datadog observability |
-| Freelance Full-Stack Engineer | **Self-employed** · Contract | 2021 – Now | End-to-end delivery for fintech, SaaS & hospitality clients — design system to deployment |
-| Frontend Engineer | **mPedigree** · Contract | 2022 | Reusable component library, test suites & onboarding docs for a distributed codebase |
-| Frontend Engineer Intern | **Agricom** · Internship | 2022 | Mobile-first, low-bandwidth-optimized interfaces for agri-tech |
-| Software Engineer Intern | **Annin Software** · Internship | 2021 | State management & API integration foundations |
-
-<br/>
-
-## 🚀 Selected Work
-
-| Project | Stack | What it does |
+| Role | Company | Period |
 |---|---|---|
-| **Neofingo** — Trade Finance Platform | Nuxt 3 · Vue 3 · TypeScript | AI-powered search over live trade-lifecycle data; resilient multi-step transaction flows |
-| **Baetts** — Hospitality & Property | Vue 3 · TypeScript · FastAPI | Guest bookings, property listings & dashboards — full client + server logic |
-| **Compassionate Minds** — Healthcare Portal | Next.js · React · Supabase | Patient management with real-time booking, auth & accessible design |
-| **Akoko Wura** — Operations & Risk | SvelteKit · FastAPI · PostgreSQL | Real-time risk dashboard with batch pipelines & live metrics |
+| Senior Frontend Engineer | **Credmap** · fintech | 2023 – 2026 |
+| Freelance Full-Stack Engineer | **Self-employed** | 2021 – Now |
+| Frontend Engineer | **mPedigree** | 2022 |
+| Frontend Engineer Intern | **Agricom** | 2022 |
+| Software Engineer Intern | **Annin Software** | 2021 |
 
-*Details, metrics and case studies: [abdulrauf-saeed.vercel.app](https://abdulrauf-saeed.vercel.app/)*
+**Selected work** — Neofingo (trade finance) · Baetts (hospitality) · Compassionate Minds (healthcare) · Akoko Wura (risk ops)
+→ [abdulrauf-saeed.vercel.app](https://abdulrauf-saeed.vercel.app/)
 
 <br/>
 
-## 🎓 Credentials
+## Credentials
 
-- **AWS Certified Cloud Practitioner** (CLF-C02)
-- **BSc Information Technology** — AAMUSTED (2021 – 2025) · thesis on building and evaluating a full-stack web app using Design Science Research
-- SQL & C# certifications
+**AWS Certified Cloud Practitioner** (CLF-C02) · BSc Information Technology, AAMUSTED
 
 <br/>
 
