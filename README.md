@@ -51,7 +51,7 @@ Frontend-first, full-stack capable. I ship design systems, real-time dashboards 
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -60,8 +60,6 @@ Frontend-first, full-stack capable. I ship design systems, real-time dashboards 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B233%2055%20212%202002-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233552122002)
 
-<sub>Have a product to ship or a team to strengthen? Let's talk. ⭐</sub>
-
-<img src="https://komarev.com/ghpvc/?username=RaufCode&color=2DD4BF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+<sub>Open to strong teams and to founders who need an engineer to build & ship.</sub>
 
 </div>
