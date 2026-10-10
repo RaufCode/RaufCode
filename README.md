@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Saeed+Abdul+Rauf+%F0%9F%91%8B;Senior+Frontend+Engineer+%C2%B7+Full-Stack;I+ship+fintech+%26+SaaS+products+faster;Vue+3+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Next.js+%C2%B7+SvelteKit;5%2B+years+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Saeed+Abdul+Rauf+%F0%9F%91%8B;Senior+Frontend+Engineer+%C2%B7+Full-Stack;I+ship+fintech+%26+SaaS+products+faster;Vue+3+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Next.js+%C2%B7+SvelteKit;3%2B+years+in+production" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a **Senior Frontend-led Full-Stack Engineer** with **5+ years** in production. I help companies and founders ship fintech, SaaS, and hospitality products that are fast, dependable, and built to scale — without accumulating tech debt that slows the team down.
+I'm a **Senior Frontend-led Full-Stack Engineer** with **3+ years** in production. I help companies and founders ship fintech, SaaS, and hospitality products that are fast, dependable, and built to scale — without accumulating tech debt that slows the team down.
 
 Founders and teams come to me for end-to-end product builds, token-based design systems, and resilient API integrations that hold up under real-world conditions (retries, idempotency, partial failures). **AWS Certified Cloud Practitioner**, pairing senior frontend craft with full-stack delivery on Node.js and FastAPI.
 
@@ -25,7 +25,7 @@ Founders and teams come to me for end-to-end product builds, token-based design 
 const saeed = {
   role: "Senior Frontend Engineer · Full-Stack",
   location: "Accra, Ghana 🇬🇭 (Remote)",
-  experience: "5+ years in production",
+  experience: "3+ years in production",
   currentlyBuilding: "Fintech, SaaS & hospitality products — from concept to deploy",
   currentlyLearning: "Distributed systems & cloud architecture",
   obsessedWith: [
