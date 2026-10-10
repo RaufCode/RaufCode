@@ -14,31 +14,13 @@
 
 <br/>
 
-## About Me
+## What I Do
 
-I'm a **Senior Frontend-led Full-Stack Engineer** with **3+ years** in production. I help companies and founders ship fintech, SaaS, and hospitality products that are fast, dependable, and built to scale — without accumulating tech debt that slows the team down.
-
-Founders and teams come to me for end-to-end product builds, token-based design systems, and resilient API integrations that hold up under real-world conditions (retries, idempotency, partial failures). **AWS Certified Cloud Practitioner**, pairing senior frontend craft with full-stack delivery on Node.js and FastAPI.
-
-```txt
-const saeed = {
-  role: "Senior Frontend Engineer · Full-Stack",
-  location: "Accra, Ghana 🇬🇭 (Remote)",
-  experience: "3+ years in production",
-  currentlyBuilding: "Fintech, SaaS & hospitality products — from concept to deploy",
-  currentlyLearning: "Distributed systems & cloud architecture",
-  obsessedWith: [
-    "Design systems at scale",
-    "Resilient async integrations",
-    "Shipping fast without the debt",
-  ],
-  funFact: "I code like I'm building my own company"
-};
-```
+Frontend-first, full-stack capable. I ship design systems, real-time dashboards and resilient API integrations that hold up under retries, idempotency and partial failure — without leaving the team tech debt.
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend** — Vue 3 · Nuxt 3/4 · React · Next.js · SvelteKit · TypeScript
 
