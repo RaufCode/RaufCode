@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Saeed+Abdul+Rauf+%F0%9F%91%8B;Senior+Frontend+Engineer+%C2%B7+Full-Stack;I+ship+fintech+%26+SaaS+products+faster;Vue+3+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Next.js+%C2%B7+SvelteKit;3%2B+years+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Saeed+Abdul+Rauf+%F0%9F%91%8B;Senior+Frontend+Engineer+%C2%B7+Full-Stack;Vue+3+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Next.js;3%2B+years+shipping+production+software" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdulrauf--saeed.vercel.app-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrauf-saeed.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-abdulrauf)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
-[![Location](https://img.shields.io/badge/Ghana-Remote%20%7C%20Accra-006B3F?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-abdulraufsaeed923@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
 
 **Senior frontend engineer with full-stack delivery — fintech, SaaS & hospitality. Remote from Accra, Ghana.**
 
