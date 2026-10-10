@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
 [![Location](https://img.shields.io/badge/Ghana-Remote%20%7C%20Accra-006B3F?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-**🟢 Senior frontend & full-stack engineer — open to great teams, and to founders who need an engineer to build & ship. Remote-first from Accra, Ghana.**
+**Senior frontend engineer with full-stack delivery — fintech, SaaS & hospitality. Remote from Accra, Ghana.**
 
 </div>
 
