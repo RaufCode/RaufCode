@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdulrauf--saeed.vercel.app-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrauf-saeed.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-abdulrauf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-abdul-rauf)
 [![Email](https://img.shields.io/badge/Email-abdulraufsaeed923@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
 
 **Senior frontend engineer with full-stack delivery — fintech, SaaS & hospitality. Remote from Accra, Ghana.**
