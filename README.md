@@ -23,16 +23,10 @@ Frontend-first, full-stack capable. I ship design systems, real-time dashboards 
 ## Tech Stack
 
 **Frontend** — Vue 3 · Nuxt 3/4 · React · Next.js · SvelteKit · TypeScript
-
-**UI & Design Systems** — shadcn/ui · Radix UI · Tailwind CSS · Storybook · Figma-to-Code
-
-**State & Data** — Pinia · Redux Toolkit · Zustand · TanStack Query · Zod · WebSockets
-
-**Testing & Observability** — Vitest · Jest · Cypress · Playwright · Datadog RUM
-
-**Backend & Cloud** — Node.js · Express · FastAPI · Prisma · PostgreSQL · Supabase · Firebase · AWS (Certified)
-
-**Security & AI-assisted engineering** — XSS/CSRF/CSP · Claude Code · GitHub Copilot
+**UI** — shadcn/ui · Radix · Tailwind CSS · Storybook · Figma-to-Code
+**State & Data** — Pinia · Redux Toolkit · Zustand · TanStack Query · Zod
+**Full-Stack** — Node.js · Express · FastAPI · Prisma · PostgreSQL · Supabase
+**Quality** — Vitest · Playwright · Cypress · Datadog RUM · AWS (Certified)
 
 <br/>
 
