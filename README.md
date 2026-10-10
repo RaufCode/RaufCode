@@ -58,7 +58,7 @@ Frontend-first, full-stack capable. I ship design systems, real-time dashboards 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrauf-saeed.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-abdulrauf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulraufsaeed923@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B233%2055%20212%202002-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233552122002)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B233%2055%20212%202002-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233552122002)
 
 <sub>Open to strong teams and to founders who need an engineer to build & ship.</sub>
 
